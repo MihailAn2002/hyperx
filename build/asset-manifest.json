@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9228a100.css",
+    "main.js": "/static/js/main.20fbf428.js",
+    "static/js/651.0935f099.chunk.js": "/static/js/651.0935f099.chunk.js",
+    "static/media/slaider2.png": "/static/media/slaider2.961daadc2f24c5ffbc0a.png",
+    "static/media/slaider1.jpg": "/static/media/slaider1.55d3c8cc0bbbd920cc38.jpg",
+    "static/media/5.png": "/static/media/5.aeedfc04e19b5c6acdfc.png",
+    "static/media/1.png": "/static/media/1.611e227fc82208177a48.png",
+    "static/media/4.png": "/static/media/4.c2f07b5c674d91bddfb1.png",
+    "static/media/fon2-1536x720.jpg": "/static/media/fon2-1536x720.12f4304c5af4f3a1d443.jpg",
+    "static/media/support.webp": "/static/media/support.118b133d6b0ffd5faded.webp",
+    "static/media/2.jpg": "/static/media/2.919679954dd118d15435.jpg",
+    "static/media/4.jpg": "/static/media/4.76b1b239fa5b47dfdb35.jpg",
+    "static/media/5.jpg": "/static/media/5.6c4fd3b99b567e113d0d.jpg",
+    "static/media/1.jpg": "/static/media/1.cbf343842b9d1bca9787.jpg",
+    "static/media/6.jpg": "/static/media/6.2748c6121c75c80feacf.jpg",
+    "static/media/3.jpg": "/static/media/3.ded7a6e1ff3141177bfd.jpg",
+    "static/media/categori3.webp": "/static/media/categori3.13712928ca2aa3bb7e9f.webp",
+    "static/media/HyperX-logo.png": "/static/media/HyperX-logo.9039416509419045d9de.png",
+    "static/media/categori4.webp": "/static/media/categori4.499ec538c092df5dd497.webp",
+    "static/media/categori2.webp": "/static/media/categori2.6d1c97b72ae138bde663.webp",
+    "static/media/HyperX1.webp": "/static/media/HyperX1.c32b00801d7b36465e63.webp",
+    "static/media/categori1.webp": "/static/media/categori1.c32b00801d7b36465e63.webp",
+    "static/media/categori5.webp": "/static/media/categori5.efee1c692151f468cedb.webp",
+    "index.html": "/index.html",
+    "main.9228a100.css.map": "/static/css/main.9228a100.css.map",
+    "main.20fbf428.js.map": "/static/js/main.20fbf428.js.map",
+    "651.0935f099.chunk.js.map": "/static/js/651.0935f099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9228a100.css",
+    "static/js/main.20fbf428.js"
+  ]
+}
